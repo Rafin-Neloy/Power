@@ -1,5 +1,5 @@
 
-#include <windows.h>  // for MS Windows
+
 #include <GL/glut.h>
 #include<math.h>>
 # define PI 3.14159265358979323846 // GLUT, include glu.h and gl.h
