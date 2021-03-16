@@ -1,12 +1,5 @@
 
 
-#include <GL/glut.h>
-#include<math.h>>
-# define PI 3.14159265358979323846 // GLUT, include glu.h and gl.h
-
-GLfloat i = 0.0f;
-GLfloat m = 0.0f;
-GLfloat n = 0.0f;
 
 GLfloat position1 = 0.0f;
 GLfloat position = .7f;
